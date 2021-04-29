@@ -7,7 +7,7 @@
 
 @media screen and (max-width: 576px){
   .table {
-    font-size: smaller;
+    font-size: 16px;
   }
 }
 
@@ -21,12 +21,8 @@ p {
   font-size: 18px;
 }
 
-#evenements, #contact, #about {
+#evenements, #contact, #about, #memory {
   color:darkgoldenrod;
   font-weight: bold;
   text-transform: uppercase;
-}
-
-.table {
-  font-size: 16px;
 }
